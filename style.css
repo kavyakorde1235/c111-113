@@ -1,0 +1,14 @@
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    line-height: 3;
+}
